@@ -2,5 +2,6 @@
   "name": "ci-cd-demo", 
   "version": "1.0.0", 
   "scripts": { 
-    "test": "echo 'Тесты прошли!' && node -e \"console.log('Unit test OK')\"" 
+    "test": "echo Tests passed! && node -e \"console.log('Unit test OK')\"" 
   } 
+} 
